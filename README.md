@@ -5,8 +5,8 @@ This notebook uses classification modeling to predict the likelihood of the next
 
 ## Objectives
 - Predict whether the politician is Kamala Harris or Donald Trump.
-- Calculate the accuracy, precision, recall, and f1-score of the model/s.
-- Visualize the results using matplotlib.
+- Calculate the accuracy of the model.
+- Visualize the results using `matplotlib`.
 
 ## Tools Used
 - numpy
